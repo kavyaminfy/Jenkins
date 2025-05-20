@@ -39,19 +39,19 @@ pipeline {
 ![image](https://github.com/user-attachments/assets/ee1d0c91-5186-4ee9-b673-c228384a346a)
 
 
-Stage View of successful pipeline.
+## Stage View of successful pipeline
 
 ![image](https://github.com/user-attachments/assets/67d4af54-fae4-4474-a4a3-ae16f81cb410)
 
 ![image](https://github.com/user-attachments/assets/1f30a39d-2188-4edc-b2f2-42694298add4)
-After Configure 
+## After Configure 
 ![image](https://github.com/user-attachments/assets/c39872be-320a-47a6-a97e-3647949e9819)
 
 
 
 ## Console Output
 ![image](https://github.com/user-attachments/assets/c43d1585-c6cb-482c-ac46-703587be43d2)
-After Configure 
+## After Configure 
 ![image](https://github.com/user-attachments/assets/633f4a1d-e544-4cbf-8082-6b27b1f3cce7)
 
 
